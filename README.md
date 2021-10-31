@@ -3,10 +3,10 @@
 <p>Added a small semi-transparent black square on the space the new character will display, along with slightly darkening the canvas-wide layer that is applied every draw loop. Also changed font and decreased draw interval.</p>
 
 <h4>Before</h4>
-<img src="">
+<img src="https://raw.githubusercontent.com/PaulB-H/matrix-digital-rain/gh-pages/digitalrain-before.gif">
 
 <h4>After</h4>
-<img src="">
+<img src="https://raw.githubusercontent.com/PaulB-H/matrix-digital-rain/gh-pages/digitalrain-after.gif">
 
 <sub>Original readme:</sub>
 
